@@ -1,0 +1,15 @@
+D:\365daysProblemSolved\Stack_Work\bin\Debug\net6.0\Stack_Work.exe
+D:\365daysProblemSolved\Stack_Work\bin\Debug\net6.0\Stack_Work.deps.json
+D:\365daysProblemSolved\Stack_Work\bin\Debug\net6.0\Stack_Work.runtimeconfig.json
+D:\365daysProblemSolved\Stack_Work\bin\Debug\net6.0\Stack_Work.dll
+D:\365daysProblemSolved\Stack_Work\bin\Debug\net6.0\Stack_Work.pdb
+D:\365daysProblemSolved\Stack_Work\obj\Debug\net6.0\Stack_Work.csproj.AssemblyReference.cache
+D:\365daysProblemSolved\Stack_Work\obj\Debug\net6.0\Stack_Work.GeneratedMSBuildEditorConfig.editorconfig
+D:\365daysProblemSolved\Stack_Work\obj\Debug\net6.0\Stack_Work.AssemblyInfoInputs.cache
+D:\365daysProblemSolved\Stack_Work\obj\Debug\net6.0\Stack_Work.AssemblyInfo.cs
+D:\365daysProblemSolved\Stack_Work\obj\Debug\net6.0\Stack_Work.csproj.CoreCompileInputs.cache
+D:\365daysProblemSolved\Stack_Work\obj\Debug\net6.0\Stack_Work.dll
+D:\365daysProblemSolved\Stack_Work\obj\Debug\net6.0\refint\Stack_Work.dll
+D:\365daysProblemSolved\Stack_Work\obj\Debug\net6.0\Stack_Work.pdb
+D:\365daysProblemSolved\Stack_Work\obj\Debug\net6.0\Stack_Work.genruntimeconfig.cache
+D:\365daysProblemSolved\Stack_Work\obj\Debug\net6.0\ref\Stack_Work.dll
