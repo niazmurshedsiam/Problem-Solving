@@ -1,0 +1,15 @@
+D:\365daysProblemSolved\QueueDequeue\obj\Debug\net6.0\QueueDequeue.csproj.AssemblyReference.cache
+D:\365daysProblemSolved\QueueDequeue\obj\Debug\net6.0\QueueDequeue.GeneratedMSBuildEditorConfig.editorconfig
+D:\365daysProblemSolved\QueueDequeue\obj\Debug\net6.0\QueueDequeue.AssemblyInfoInputs.cache
+D:\365daysProblemSolved\QueueDequeue\obj\Debug\net6.0\QueueDequeue.AssemblyInfo.cs
+D:\365daysProblemSolved\QueueDequeue\obj\Debug\net6.0\QueueDequeue.csproj.CoreCompileInputs.cache
+D:\365daysProblemSolved\QueueDequeue\bin\Debug\net6.0\QueueDequeue.exe
+D:\365daysProblemSolved\QueueDequeue\bin\Debug\net6.0\QueueDequeue.deps.json
+D:\365daysProblemSolved\QueueDequeue\bin\Debug\net6.0\QueueDequeue.runtimeconfig.json
+D:\365daysProblemSolved\QueueDequeue\bin\Debug\net6.0\QueueDequeue.dll
+D:\365daysProblemSolved\QueueDequeue\bin\Debug\net6.0\QueueDequeue.pdb
+D:\365daysProblemSolved\QueueDequeue\obj\Debug\net6.0\QueueDequeue.dll
+D:\365daysProblemSolved\QueueDequeue\obj\Debug\net6.0\refint\QueueDequeue.dll
+D:\365daysProblemSolved\QueueDequeue\obj\Debug\net6.0\QueueDequeue.pdb
+D:\365daysProblemSolved\QueueDequeue\obj\Debug\net6.0\QueueDequeue.genruntimeconfig.cache
+D:\365daysProblemSolved\QueueDequeue\obj\Debug\net6.0\ref\QueueDequeue.dll
